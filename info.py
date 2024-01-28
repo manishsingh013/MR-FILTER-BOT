@@ -19,7 +19,7 @@ def is_enabled(value, default):
 # Bot information
 SESSION = environ.get('SESSION', 'Lazyboyy_bot')
 API_ID = int(environ.get('API_ID', '28836003'))
-API_HASH = environ.get('API_HASH', '5734323848:AAG1Pw7ZL_gwaoK2xoTOsdITROGFZBl_ecc')
+API_HASH = environ.get('API_HASH', '3fd22784828e05a77afde28dc6bc6b37')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
