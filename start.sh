@@ -8,7 +8,7 @@ then
   git clone https://github.com/manishsingh013/MR-FILTER-BOT.git /MR-FILTER-BOT 
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /VJ-FILTER-BOT 
+  git clone $UPSTREAM_REPO /MR-FILTER-BOT 
 fi
 cd /MR-FILTER-BOT 
 pip3 install -U -r requirements.txt
